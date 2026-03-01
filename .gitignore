@@ -1,0 +1,19 @@
+# Environment variables (API keys)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Logs
+trading_log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
